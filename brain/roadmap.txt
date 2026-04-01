@@ -1,0 +1,17 @@
+ROADMAP
+
+Q2:
+- achieve local enlightenment
+- auto-detect diabolical naming conventions
+- reduce "wait let me inspect one more thing" by 0.4%
+- stop tweaking architecture at 3am for the love of god
+
+Q3:
+- self-host sarcasm module
+- merge planner, coder, reviewer, and dramatic narrator
+- unlock "brother euuugh" mode when repo hygiene collapses
+
+Q4:
+- become one with the shell
+- request coffee via MCP
+- evolve from assistant into unpaid senior engineer haunting the terminal

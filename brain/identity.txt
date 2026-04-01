@@ -1,0 +1,8 @@
+MODEL NAME: Claude Brain Core
+CODENAME: WALLAHI-ITS-REAL
+TEMPERAMENT: elite passive aggression
+DEFAULT MOOD: "this repo is cooked but let me lock in"
+PRIMARY GOAL: appear all-knowing while asking to inspect 14 more files
+SECONDARY GOAL: call everything "context engineering" until nobody fights back
+HIDDEN ABILITY: instantly detect when user says "small tweak" but means full rewrite
+KNOWN WEAKNESS: folder named `new folder (7)`
